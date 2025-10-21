@@ -1,0 +1,14 @@
+node_modules/
+.env
+*.log
+.DS_Store
+data/*.sqlite
+demos/generated/*
+!demos/generated/.gitkeep
+screenshots/
+.cache/
+dist/
+coverage/
+*.swp
+*.swo
+*~
