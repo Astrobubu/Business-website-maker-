@@ -1,9 +1,10 @@
 # 🎯 Personalized Outreach Templates - Dubai Businesses
 
-Based on your 3 demo websites showcasing versatility:
+Based on your 4 demo websites showcasing versatility:
 1. **Delhi Darbar** - Traditional/Heritage style
 2. **Toit** - Modern/Trendy style
 3. **FZN Dining** - Luxury/Fine Dining style
+4. **Mufakkir** - Tech/App Platform style
 
 ---
 
@@ -44,8 +45,9 @@ I was looking for the best [cuisine type] in Dubai and found you with 2,700+ ama
 - Traditional style (like yours): https://delhi-darbar-website.vercel.app/
 - Modern cafe style: https://toit.vercel.app/
 - Fine dining luxury: https://fzn-dining-experience.pages.dev/
+- Tech/App platform: https://mufakkir.app/
 
-Each one built in 1 week. Each one saves businesses thousands in commissions.
+Each one built in 1-2 weeks. Each one saves businesses thousands in commissions.
 
 **Want to see a mockup with YOUR menu and branding?**
 
@@ -94,6 +96,7 @@ See that "Order Ahead" button? That's AED 45,000/month in revenue you're leaving
 - Modern cafe (like yours): https://toit.vercel.app/
 - Traditional restaurant: https://delhi-darbar-website.vercel.app/
 - Fine dining: https://fzn-dining-experience.pages.dev/
+- Tech/App platform: https://mufakkir.app/
 
 I can have YOUR version ready in 2 weeks.
 
@@ -137,10 +140,11 @@ This is the level of digital experience your guests expect.
 ✅ Multi-location booking (if you have multiple branches)
 ✅ Integration with your existing POS system
 
-**I specialize in different restaurant styles:**
+**I specialize in different styles:**
 - Fine dining luxury (your level): https://fzn-dining-experience.pages.dev/
 - Modern trendy: https://toit.vercel.app/
 - Traditional heritage: https://delhi-darbar-website.vercel.app/
+- Tech/App platform: https://mufakkir.app/
 
 Your brand deserves a website that matches your Michelin-level service.
 
@@ -177,12 +181,13 @@ But when I search "[your business] Dubai", I only find reviews. No website.
 
 **That's AED 120,000/month you're losing to competitors.**
 
-I built 3 demo websites in different styles to show you what you could have:
+I built 4 demo websites in different styles to show you what you could have:
 
 **Pick your style:**
 1. Traditional/Heritage: https://delhi-darbar-website.vercel.app/
 2. Modern/Trendy: https://toit.vercel.app/
 3. Luxury/Fine Dining: https://fzn-dining-experience.pages.dev/
+4. Tech/App Platform: https://mufakkir.app/
 
 **I can have YOUR website live in 2 weeks:**
 - Full menu with photos & real-time updates
@@ -243,9 +248,10 @@ I'm sorry, but in 2024, nobody wants to call and wait on hold. We want to click 
 ✅ Multi-doctor scheduling system
 
 **I've built websites for different industries:**
-- Medical/Corporate style: [Can show professional version]
-- Modern cafe style: https://toit.vercel.app/
-- Luxury restaurant style: https://fzn-dining-experience.pages.dev/
+- Traditional restaurant: https://delhi-darbar-website.vercel.app/
+- Modern cafe: https://toit.vercel.app/
+- Luxury restaurant: https://fzn-dining-experience.pages.dev/
+- Tech/App platform: https://mufakkir.app/
 
 Same quality, different industries.
 
@@ -330,10 +336,11 @@ Hi [Business Name],
 
 You're losing AED 120K/month to competitors.
 
-I built 3 demo websites - pick your style:
+I built 4 demo websites - pick your style:
 1. Traditional: https://delhi-darbar-website.vercel.app/
 2. Modern: https://toit.vercel.app/
 3. Luxury: https://fzn-dining-experience.pages.dev/
+4. Tech/App: https://mufakkir.app/
 
 Can have YOURS ready in 2 weeks. Interested?
 
@@ -345,11 +352,12 @@ Can have YOURS ready in 2 weeks. Interested?
 ## 📱 SMS VERSION (Ultra Short!)
 
 ```
-Hi [Name], saw you have 2.7K reviews but no website. I built demos in 3 styles - which fits you?
+Hi [Name], saw you have 2.7K reviews but no website. I built demos in 4 styles - which fits you?
 
 1. Traditional: delhi-darbar-website.vercel.app
 2. Modern: toit.vercel.app
 3. Luxury: fzn-dining-experience.pages.dev
+4. Tech/App: mufakkir.app
 
 Reply number or call me: [Phone]
 ```
@@ -371,6 +379,7 @@ Quick question - which style resonated with you more?
 1. Traditional heritage: delhi-darbar-website.vercel.app
 2. Modern trendy: toit.vercel.app
 3. Fine dining: fzn-dining-experience.pages.dev
+4. Tech/App platform: mufakkir.app
 
 If none of these fit, I can create a custom style for you.
 
@@ -396,6 +405,7 @@ If you want a website like these:
 - delhi-darbar-website.vercel.app
 - toit.vercel.app
 - fzn-dining-experience.pages.dev
+- mufakkir.app
 
 ...but with YOUR branding, let me know by Friday.
 
@@ -427,6 +437,10 @@ Interested?
 3. Fine Dining/Luxury
    https://fzn-dining-experience.pages.dev/
    (Perfect for: Upscale restaurants, hotels, premium brands)
+
+4. Tech/App Platform
+   https://mufakkir.app/
+   (Perfect for: Digital products, SaaS, tech platforms)
 
 Same designer, different vibes.
 Which style fits YOUR brand?
